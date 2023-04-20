@@ -1,0 +1,14 @@
+Download Keycloak
+Run keyclock of quarotos with command "kc.bat start-dev" in bin folder of keycloak
+Create react project
+Install keycloak-js
+
+
+Keycloak configuration:
+Create new realm
+Create client in realm
+Create user in realm
+Give url of your project host to client in realm in fields of all valid redirecturls
+
+Configure keycloak in react js
+
