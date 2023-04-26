@@ -10,5 +10,18 @@ Create client in realm
 Create user in realm
 Give url of your project host to client in realm in fields of all valid redirecturls
 
+
+For social login:
+Add Identity provider
+If microsoft: Add client Id and client secret
+Hiow to get client id:
+go to "https://portal.azure.com/"
+login to your microsoft account
+search for app registrations
+register you app then get client Id from overview and client secret from certificates and secrets
+
+
+
 Configure keycloak in react js
+
 
